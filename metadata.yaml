@@ -1,0 +1,31 @@
+_repo: Village-Life-in-China--A-Study-in-Sociology_33485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33485-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Arthur H.
+    aliases:
+    - Smith, A. H. (Arthur Henderson)
+    - Smith, Arthur Henderson
+    birthdate: 1845
+    deathdate: 1932
+    gutenberg_agent_id: '36437'
+    url: http://www.gutenberg.org/2009/agents/36437
+description: ''
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33485'
+  lccn: 00000189
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Social life and customs'
+- !lcsh 'Villages'
+- !lcc 'DS'
+title: 'Village Life in China: A Study in Sociology'
+url: http://www.gutenberg.org/ebooks/33485
